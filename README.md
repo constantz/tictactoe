@@ -1,4 +1,4 @@
-# java-tictactoe
+# tictactoe
 exercise in Java, an (as yet) unsuccessful attempt at creating an unwinnable tictactoe game
 
 Made for fun during a few days in november 2018 while at home, studying html and css
